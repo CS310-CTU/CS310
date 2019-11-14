@@ -25,6 +25,7 @@ Some git commands
 -----------------
 
 1.  This should always be run before you do any work:  git pull upstream master
+   
     This gets the latest file updates/changes from 
     master branch
 
@@ -44,6 +45,7 @@ If you make a change here is how you would get it uploaded/pushed to master:
 
 ---------------------------------------------------------------------------
 Example:
+
 ----------------------------------- 1 -------------------------------------
 
 $ git status
